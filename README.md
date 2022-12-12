@@ -1,5 +1,7 @@
 ### 🤞 Nice way to meet me
-
+<p>
+<a href="mailto:wonderland314592@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wonderland314592@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 <p>
   👋&nbsp; Hi there! I'm <b>4th Year Software Engineering Student</b><br/>
    For the past year, I have been interested in backend developer stack.🚀 <br/><br/>
