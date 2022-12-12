@@ -1,8 +1,7 @@
 ### 🤞 Nice way to meet me
 
 <p>
-  👋&nbsp; Hi there! 
-   I am  4th Year Software Engineering Student  <br/>
+  👋&nbsp; Hi there! I'm <b>4th Year Software Engineering Student</b><br/>
    For the past year, I have been interested in backend developer stack.🚀 <br/><br/>
   
    I enjoy hiking, cooking, hit the road. 🌎 <br>
