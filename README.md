@@ -5,6 +5,9 @@
   
 </p>
 
+I enjoy hiking, cooking, hit the road. 🌎 
+I hope to develop every beautiful things. ✨
+
 ### 💪 Skills
 #### Platforms & Languages
 
