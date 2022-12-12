@@ -2,8 +2,9 @@
 
 <p>
   👋&nbsp; Hi there! 
-   I am  4th Year Software Engineering Student  <br>
-   For the past year, I have been interested in backend developer stack.🚀 <br>
+   I am  4th Year Software Engineering Student  <br/>
+   For the past year, I have been interested in backend developer stack.🚀 <br/><br/>
+  
    I enjoy hiking, cooking, hit the road. 🌎 <br>
    I hope to develop every beautiful things. ✨
 </p>
