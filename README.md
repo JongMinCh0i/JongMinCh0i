@@ -1,6 +1,7 @@
 ## 👋 Hi there! 
 
 I'm JongMin Choi, a Developer working with Spring Framework and PostgreSQL-based legacy systems. I focus on maintaining and gradually improving systems through incremental changes.
+
 I'm growing through algorithm learning and open-source contributions, and I enjoy documenting and sharing what I learn.
 
 ## Open Source Contributions
